@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edvan 
-- 👀 I’m interested in Python and Node.js
+- 👀 I’m interested in React.js and Node.js
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on whatsapp 81985909703
