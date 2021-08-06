@@ -9,7 +9,7 @@
 
 
 
-<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><b>my activity</b></p>
 
 <a	align="center" ><img	align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsay12&layout=compact&hide=TSQL&theme=chartreuse-dark"></a>
 <a align="center" ><img	align="center" src="https://github-readme-stats.vercel.app/api?username=edsay12&count_private=true&show_icons=true&&theme=chartreuse-white&include_all_commits=true" width="400"></a> 
