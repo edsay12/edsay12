@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am  Edvan </h1>
 
-- 👋 Hi, I’m @Edvan 
+
 - 👀 I’m interested in React.js and Node.js
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on your projects
