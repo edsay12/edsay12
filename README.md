@@ -8,22 +8,23 @@ I am a software developer specializing in full stack web development, with a str
 
 - 🎓 **Formação / Education:** Atualmente cursando Análise e Desenvolvimento de Sistemas/ Currently studying Systems Analysis and Development
 - 💼 **Interesses / Interests:** Desenvolvimento Web, Desenvolvimento FullStack, Ciência de Dados, DevOps, Automação. / Web Development, Full-Stack Development, Data Science, DevOps, Automation.
-- 💻 **Habilidades Técnicas / Technical Skills:** 
+- 💻 **Habilidades Técnicas / Technical Skills:** HTML, CSS, Sass, JavaScript, Scrum, Node, Nest, Next, TypeScript, Prisma, Python, React,React Native Redux, Hooks, Styled Components, Tailwind, Bootstrap, MongoDb, MySQL, Docker, Express, Aws, Git, GitHub, Java, Context Api, Angular, Google cloud, Figma, MariaDb.
+
   
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
   
 
 ## 🌟 Projetos Relevantes / Relevant projects
 
 
-### [Zacademy](https://github.com/kemellynasc/implementando-testes-unitarios.git)
+### [Zacademy](https://github.com/edsay12/ZAcademy)
 
  Uma plataforma de cursos que oferece recursos para adicionar, comprar e visualizar uma variedade de cursos, proporcionando uma experiência de aprendizado completa e acessível para os usuários. / A course platform that offers features to add, purchase, and view a variety of courses, providing users with a comprehensive and accessible learning experience.
 
 - **🛠️ Tecnologias Utilizadas / Technologies Used:**  Next, PrismaDB, Mysql, Docker, Use Query, React Hook Form, Next Auth, Oauth.
 - **✨ Funcionalidades Principais / Main Features:** Visualização de cursos, Adição de comentarios, Carrinho de compras, etc.
 
-### [Drive S3](https://github.com/kemellynasc/desafio-celular-POO.git](https://github.com/edsay12/S3-Driver))
+### [Drive S3](https://github.com/edsay12/S3-Driver)
 
 Uma aplicação web que simula um Google Drive, permitindo aos usuários armazenar, compartilhar e gerenciar arquivos, com a possibilidade de adicionar, baixar, arquivar, colocar na lixeira e resgatar itens.
 
@@ -31,7 +32,7 @@ Uma aplicação web que simula um Google Drive, permitindo aos usuários armazen
 - **🛠️ Tecnologias Utilizadas / Technologies Used:**  React, Typescript, Sass, Express,  Node,  Aws, S3, Docker, Cognito.
 - **✨ Funcionalidades Principais / Main Features:** Armazenamento e gerenciamento de arquivos. / File storage and management.
 
-### [ReactTube](https://github.com/kemellynasc/JUnitBlogPessoal.git](https://github.com/edsay12/ReactTube))
+### [ReactTube](https://github.com/edsay12/ReactTube)
 
 Aplicação web que simula um YouTube permitindo a adição, visualização e compartilhamento de vídeos. / A web application that simulates Google Drive, allowing users to store, share, and manage files, with the ability to add, download, archive, trash, and recover items.
 
